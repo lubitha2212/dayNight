@@ -1,0 +1,13 @@
+body{
+    background: yellow;
+    text-align: center;
+    color: darkblue;
+}
+.night{
+    background: black;
+    color: azure;
+}
+button{
+     margin-left: 0%;
+     cursor: pointer;
+}
